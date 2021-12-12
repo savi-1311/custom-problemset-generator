@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/custom-problemset-generator/static/css/main.0a3ec749.chunk.css",
+    "main.js": "/custom-problemset-generator/static/js/main.237da240.chunk.js",
+    "main.js.map": "/custom-problemset-generator/static/js/main.237da240.chunk.js.map",
+    "runtime-main.js": "/custom-problemset-generator/static/js/runtime-main.f1cae8ab.js",
+    "runtime-main.js.map": "/custom-problemset-generator/static/js/runtime-main.f1cae8ab.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/custom-problemset-generator/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.1313f5f9.chunk.js": "/custom-problemset-generator/static/js/2.1313f5f9.chunk.js",
+    "static/js/2.1313f5f9.chunk.js.map": "/custom-problemset-generator/static/js/2.1313f5f9.chunk.js.map",
+    "static/js/3.b7c33499.chunk.js": "/custom-problemset-generator/static/js/3.b7c33499.chunk.js",
+    "static/js/3.b7c33499.chunk.js.map": "/custom-problemset-generator/static/js/3.b7c33499.chunk.js.map",
+    "index.html": "/custom-problemset-generator/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/custom-problemset-generator/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.0a3ec749.chunk.css.map": "/custom-problemset-generator/static/css/main.0a3ec749.chunk.css.map",
+    "static/js/2.1313f5f9.chunk.js.LICENSE.txt": "/custom-problemset-generator/static/js/2.1313f5f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1cae8ab.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.1313f5f9.chunk.js",
+    "static/css/main.0a3ec749.chunk.css",
+    "static/js/main.237da240.chunk.js"
+  ]
+}
